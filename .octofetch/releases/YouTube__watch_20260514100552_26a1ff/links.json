@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2987",
+  "folder": "YouTube__watch_20260514100552_26a1ff",
+  "base_name": "Leg_Day_Flexibility_Tips_i6Ep3Wy-UD8_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/1384arean-oss/Cloud-Downloads/releases/tag/co-releases-v1-2987",
+  "files": [
+    {
+      "name": "Leg_Day_Flexibility_Tips_i6Ep3Wy-UD8_360p.mp4",
+      "url": "https://github.com/1384arean-oss/Cloud-Downloads/releases/download/co-releases-v1-2987/Leg_Day_Flexibility_Tips_i6Ep3Wy-UD8_360p.mp4",
+      "api_url": "https://api.github.com/repos/1384arean-oss/Cloud-Downloads/releases/assets/420063175",
+      "id": 420063175,
+      "size": 83544725,
+      "download_count": 0
+    }
+  ]
+}
