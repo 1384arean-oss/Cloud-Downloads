@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1691",
+  "folder": "YouTube__watch_20260514101347_d086d1",
+  "base_name": "The_Realization_That_Life_Is_Absurd_Is_Only_the_Beginning__FgZxX2J83o_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/1384arean-oss/Cloud-Downloads/releases/tag/co-releases-v1-1691",
+  "files": [
+    {
+      "name": "The_Realization_That_Life_Is_Absurd_Is_Only_the_Beginning__FgZxX2J83o_480p.mp4",
+      "url": "https://github.com/1384arean-oss/Cloud-Downloads/releases/download/co-releases-v1-1691/The_Realization_That_Life_Is_Absurd_Is_Only_the_Beginning__FgZxX2J83o_480p.mp4",
+      "api_url": "https://api.github.com/repos/1384arean-oss/Cloud-Downloads/releases/assets/420066980",
+      "id": 420066980,
+      "size": 39412736,
+      "download_count": 0
+    }
+  ]
+}
