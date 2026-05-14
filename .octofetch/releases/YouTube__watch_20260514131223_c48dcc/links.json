@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6915",
+  "folder": "YouTube__watch_20260514131223_c48dcc",
+  "base_name": "Which_One_s_Better_For_You_Featuring_caseykellyfit_nathanfreihofer5076_QMyCq9ZHDko_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/1384arean-oss/Cloud-Downloads/releases/tag/co-releases-v1-6915",
+  "files": [
+    {
+      "name": "Which_One_s_Better_For_You_Featuring_caseykellyfit_nathanfreihofer5076_QMyCq9ZHDko_480p.mp4",
+      "url": "https://github.com/1384arean-oss/Cloud-Downloads/releases/download/co-releases-v1-6915/Which_One_s_Better_For_You_Featuring_caseykellyfit_nathanfreihofer5076_QMyCq9ZHDko_480p.mp4",
+      "api_url": "https://api.github.com/repos/1384arean-oss/Cloud-Downloads/releases/assets/420170764",
+      "id": 420170764,
+      "size": 179797437,
+      "download_count": 0
+    }
+  ]
+}
